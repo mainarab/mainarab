@@ -1,7 +1,5 @@
 ## Hello World! Meu nome é Mainara.
 
-**README em construção**
-
 Sou iniciante no Front-End com conhecimentos de UI/UX design, áreas que se relacionam e que gosto muito. Comecei no Design gráfico, me apaixonei pela área de tecnologia, e estou seguindo nesse caminho desde então, me aperfeiçoando cada vez mais!
 
 ---
@@ -15,7 +13,7 @@ Sou iniciante no Front-End com conhecimentos de UI/UX design, áreas que se rela
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" >
-  <img align="right" height="100" src="https://github.com/user-attachments/assets/5259c7c0-e41f-42db-b963-e85fa7c32fc9">
+  <img align="right" height="100" src="https://github.com/user-attachments/assets/31ab4d7d-81ad-4d76-bce9-9b62ba45d45f">
  </div>
 
  ### Redes sociais:
@@ -25,6 +23,7 @@ Sou iniciante no Front-End com conhecimentos de UI/UX design, áreas que se rela
    <a href="https://github.com/mainarab"> <img  alt="gitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
    <a href="https://www.behance.net/mainarabarbosaa"> <img  alt="Behance" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
  </div>
+
  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mainarab/mainarab/output/github-contribution-grid-snake-dark.svg">
@@ -32,5 +31,4 @@ Sou iniciante no Front-End com conhecimentos de UI/UX design, áreas que se rela
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mainarab/mainarab/output/github-contribution-grid-snake.svg">
 </picture>  
           
-        
 
