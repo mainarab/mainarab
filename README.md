@@ -26,7 +26,11 @@ Sou iniciante no Front-End com conhecimentos de UI/UX design, áreas que se rela
    <a href="https://www.behance.net/mainarabarbosaa"> <img  alt="Behance" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
  </div>
  
-![Snake animation](https://github.com/mainarab/mainarab/blob/output/github-contribution-grid-snake.svg)       
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mainarab/mainarab/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mainarab/mainarab/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mainarab/mainarab/output/github-contribution-grid-snake.svg">
+</picture>  
           
         
 
