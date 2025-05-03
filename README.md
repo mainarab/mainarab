@@ -18,11 +18,11 @@ Sou iniciante no Front-End com conhecimentos de UI/UX design, áreas que se rela
 
  ### Redes sociais:
  <div>
-   <a href="contatomainarab@gmail.com"> <img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/mainara-barbosa/"><img  alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://github.com/mainarab"> <img  alt="gitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
    <a href="https://www.behance.net/mainarabarbosaa"> <img  alt="Behance" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
  </div>
+
 
  
 <picture>
