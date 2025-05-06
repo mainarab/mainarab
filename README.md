@@ -38,8 +38,3 @@ Sou iniciante no Front-End com conhecimentos de UI/UX design, áreas que se rela
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mainarab/mainarab/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mainarab/mainarab/output/github-contribution-grid-snake.svg">
 </picture>  
-          
-
-![logo-github](https://github.com/user-attachments/assets/85fb17bd-5886-45d9-999a-21751d0958a6)
-![logo-git](https://github.com/user-attachments/assets/b24059e0-cc3c-4c36-b875-c15c1c39a5eb)
-![logo-vscode](https://github.com/user-attachments/assets/7878d2c1-0f6e-4a94-841a-4a39072d00d5)
