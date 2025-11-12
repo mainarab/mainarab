@@ -1,6 +1,6 @@
 ## Hello World! Meu nome é Mainara.
 
-Sou iniciante no Front-End com conhecimentos de UI/UX design, áreas que se relacionam e que gosto muito. Comecei no Design gráfico, me apaixonei pela área de tecnologia, e estou seguindo nesse caminho desde então, me aperfeiçoando cada vez mais!
+Desenvolvedora Front-end com experiência prática adquirida no ambiente de trabalho, utilizando tecnologias como React, Next.js, TypeScript e Tailwind CSS. Atualmente, estou aplicando tudo o que aprendi em projetos pessoais para expandir meu portfólio e continuar evoluindo como desenvolvedora.
 
 ---
 <div align= "center">
