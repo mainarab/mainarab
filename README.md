@@ -15,12 +15,7 @@ Desenvolvedora Front-end com experiência prática adquirida no ambiente de trab
   <img align="center" alt="Git" width="40" src="https://github.com/user-attachments/assets/b24059e0-cc3c-4c36-b875-c15c1c39a5eb">
   <img align="center" alt="GitHub" width="40" src="https://github.com/user-attachments/assets/85fb17bd-5886-45d9-999a-21751d0958a6">
   <img align="center" alt="VSCode" width="40" src="https://github.com/user-attachments/assets/7878d2c1-0f6e-4a94-841a-4a39072d00d5">
-
-  
   <img align="center" alt="Figma" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" >
-  <img align="center" alt="PhotoShop" width="40" src="https://github.com/user-attachments/assets/da61d1d1-de0c-4ff2-a315-2f5c7f82a1ad" >
-  <img align="center" alt="Illustrator" width="40" src="https://github.com/user-attachments/assets/c5f0fdfc-de97-42f9-aa89-2c670fc6b58f" >
-  <img align="center" alt="Maze" width="40" src="https://github.com/user-attachments/assets/d7c476d6-b8f1-43d7-883f-704a89231b3d" >
   
   <img align="right" height="100" src="https://github.com/user-attachments/assets/31ab4d7d-81ad-4d76-bce9-9b62ba45d45f">
  </div>
