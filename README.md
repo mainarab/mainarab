@@ -3,10 +3,7 @@
 Desenvolvedora Front-end com experiência prática adquirida no ambiente de trabalho, utilizando tecnologias como React, Next.js, TypeScript e Tailwind CSS. Atualmente, estou aplicando tudo o que aprendi em projetos pessoais para expandir meu portfólio e continuar evoluindo como desenvolvedora.
 
 ---
-<div align= "center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mainarab&show_icons=true&bg_color=E8EDDF&border_color=7666CA&text_color=7666CA&title_color=29339B&icon_color=29339B">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mainarab&layout=compact&bg_color=E8EDDF&border_color=7666CA&text_color=7666CA&title_color=29339B">
-</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
