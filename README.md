@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=29339B&reversal=true">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=50&pause=1000&color=29339B&center=true&vCenter=true&width=1000&height=100&lines=Hello+World!;Meu+nome+%C3%A9+Mainara;Front-End+Developer;UX%2FUI+Designer" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=50&pause=1000&color=29339B&center=true&vCenter=true&width=1000&height=100&lines=Hello+World!;Front-End+Developer;UX%2FUI+Designer" alt="Typing SVG" /></a>
 
 Olá, me chamo mainara, tenho 23 anos e sou desenvolvedora Front-end com experiência prática adquirida em ambiente de trabalho, utilizando tecnologias como React, Next.js, TypeScript e Tailwind CSS. Possuo conhecimento de UX/UI design o qual adquiri através de cursos do SENAI, e projetos práticos.
 
